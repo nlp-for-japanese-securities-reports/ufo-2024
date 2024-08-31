@@ -1,5 +1,5 @@
 # ufo-2024
-[UFO-2024タスク](https://sites.google.com/view/ufo-2024/, "UFO-2024")は、 **Table Retrievalサブタスク（以下、TRタスク）** と、 **Table QAサブタスク（以下、TQAタスク）** から構成されます。
+[UFO-2024タスク](https://sites.google.com/view/ufo-2024/home?authuser=0, "UFO-2024")は、 **Table Retrievalサブタスク（以下、TRタスク）** と、 **Table QAサブタスク（以下、TQAタスク）** から構成されます。
 
 ## 更新情報
 - (2024/8/15) データのPrivate公開
