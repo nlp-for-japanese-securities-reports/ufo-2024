@@ -18,27 +18,7 @@ UFOタスクは、 **Table Retrievalサブタスク（以下、TRタスク）** 
 | Table QA | 8390 | 1534 | 4488 |
 
 ## Baseline Scores
-validディレクトリのデータセットを対象に、各タスクのベースライン手法を作成し、評価を行いました。（U4の結果）
-
-### TRタスク
-| 手法 | Accuracy | 正解数 / 質問数 |
-| --- | ---: | ---: |
-| text-embedding-3-small + Cell Text | 0.2111 | 661 / 3131 |
-| text-embedding-3-large + Cell Text | 0.1833 | 574 / 3131 |
-| text-embedding-3-small + HTML Text | 0.1843 | 577 / 3131 |
-| text-embedding-3-large + HTML Text | 0.1418 | 444 / 3131 |
-| text-embedding-3-small + Markdown Text | 0.1233 | 386 / 3131 |
-| text-embedding-3-large + Markdown Text | 0.1383 | 433 / 3131 |
-
-### TQAタスク
-| モデル | 詳細モデル名 | Accuracy | 正解数 / 総質問数 |
-| --- | --- | ---: | ---: |
-| GPT-4o | gpt-4o-2024-05-13 | 0.6475 | 2028 / 3132 |
-| GPT-3.5-turbo | gpt-3.5-turbo-0125 | 0.3493 | 1094 / 3132 |
-| Gemini 1.5 Pro | gemini-1.5-pro-001 | 0.5744 | 1799 / 3132 |
-| Gemini 1.5 Flash | gemini-1.5-flash-001 | 0.4898 | 1534 / 3132 |
-| Claude 3 Opus | claude-3-opus-20240229 | 0.7471 | 2340 / 3132 |
-| Claude 3 Haiku | claude-3-haiku-20240307 | 0.3209 | 1005 / 3132 |
+準備中です
 
 ## 特記事項
 - データセットについて、Question IDは各タスクで連番になっていませんが、これはタスク間でQuestionの重複を防ぐためです。
