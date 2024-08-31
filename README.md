@@ -1,15 +1,13 @@
 # ufo-2024
-SIG-FIN UFOタスクで用いるデータセットです。
-<!-- [SIG-FIN UFOタスク](https://sites.google.com/view/ntcir18-u4/home?authuser=0, "SIG-FIN UFO")（）で用いるデータセットです。\ -->
-UFOタスクは、 **Table Retrievalサブタスク（以下、TRタスク）** と、 **Table QAサブタスク（以下、TQAタスク）** から構成されます。
+[UFO-2024タスク](https://sites.google.com/view/ufo-2024/, "UFO-2024")は、 **Table Retrievalサブタスク（以下、TRタスク）** と、 **Table QAサブタスク（以下、TQAタスク）** から構成されます。
 
 ## 更新情報
 - (2024/8/15) データのPrivate公開
 
-<!-- ## タスク設定
+## タスク設定
 以下をご参照ください。\
-[TRタスク](https://sites.google.com/view/ntcir18-u4/subtasks/table-retrieval?authuser=0, "Table Retrieval")\
-[TQAタスク](https://sites.google.com/view/ntcir18-u4/subtasks/table-qa?authuser=0, "Table QA") -->
+[TRタスク](https://sites.google.com/view/ufo-2024/subtasks/table-retrieval?authuser=0, "Table Retrieval")\
+[TQAタスク](https://sites.google.com/view/ufo-2024/subtasks/table-qa?authuser=0, "Table QA")
 
 ## データ数
 |  | train | valid | test |
