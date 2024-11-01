@@ -6,7 +6,7 @@ import random
 from bs4 import BeautifulSoup as bs
 from tqdm import tqdm
 
-# valid_trディレクトリのパスを指定
+# validディレクトリのパスを指定
 path_valid = Path(__file__).parents[1] / "valid"
 # 質問文やコンテキスト等が記述されたJSONファイルのパスを指定
 path_questions = path_valid / "questions.json"
